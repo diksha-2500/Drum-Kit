@@ -17,11 +17,11 @@ footer {
 }
 
 .w {
-background-image: url('/images/tom1.png');
+background-image: url('https://github.com/diksha-2500/Drum-Kit/tree/master/images/tom1.png');
 }
 
 .a {
-  background-image: url('/images/tom2.png');
+  background-image: url('images/tom2.png');
 }
 
 .s {
