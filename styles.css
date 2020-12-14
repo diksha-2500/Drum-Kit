@@ -17,7 +17,7 @@ footer {
 }
 
 .w {
-background-image: url('https://github.com/diksha-2500/Drum-Kit/tree/master/images/tom1.png');
+background-image: url('images/tom1.png');
 }
 
 .a {
@@ -25,15 +25,15 @@ background-image: url('https://github.com/diksha-2500/Drum-Kit/tree/master/image
 }
 
 .s {
-  background-image: url('/images/tom3.png');
+  background-image: url('images/tom3.png');
 }
 
 .d {
-  background-image: url('/images/tom4.png');
+  background-image: url('images/tom4.png');
 }
 
 .j {
-  background-image: url('/images/crash.png');
+  background-image: url('images/crash.png');
 }
 
 .k {
@@ -41,7 +41,7 @@ background-image: url('https://github.com/diksha-2500/Drum-Kit/tree/master/image
 }
 
 .l {
-  background-image: url('/images/snare.png');
+  background-image: url('images/snare.png');
 }
 
 .set {
