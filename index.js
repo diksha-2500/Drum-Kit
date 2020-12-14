@@ -20,7 +20,7 @@ function makeSound(key){
                   aud.play();
                   break;
             case "a":
-                  var aud=new Audio('/sounds/tom-2.mp3');
+                  var aud=new Audio('sounds/tom-2.mp3');
                   aud.play();
                   break;
             case "s":
