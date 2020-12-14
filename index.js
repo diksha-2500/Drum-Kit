@@ -16,7 +16,7 @@ document.addEventListener("keypress",function(event){
 function makeSound(key){
       switch (key) {
             case "w":
-                  var aud=new Audio('/sounds/tom-1.mp3');
+                  var aud=new Audio('https://github.com/diksha-2500/Drum-Kit/tree/master/sounds/tom-1.mp3');
                   aud.play();
                   break;
             case "a":
